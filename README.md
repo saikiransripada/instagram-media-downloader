@@ -1,4 +1,4 @@
-# Instagram Media Scraper
+# Instagram Media Downloader
 A simple command-line script to download photos, videos and sidecars (album) of an Instagram profile.
 
 - A command-line script that scrapes all photos, videos and sidecars (album) of an Instagram public profile.
